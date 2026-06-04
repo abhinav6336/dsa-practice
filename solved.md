@@ -22,3 +22,8 @@ Two Pointers
 283. Move Zeroes
 125. Valid Palindrome
 88. Merge Sorted Array
+
+Stack
+
+-----------
+20. Valid Parenthesis
