@@ -23,7 +23,6 @@ Two Pointers
 125. Valid Palindrome
 88. Merge Sorted Array
 
-=== Stack ===
-
+#Stack
 -----------
 20. Valid Parenthesis
