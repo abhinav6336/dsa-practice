@@ -38,3 +38,7 @@ String
 14.   Longest common prefix
 3120. Count the number of special characters 1
 
+Sliding Window
+-----------------
+121. Best time to buy and sell stock
+643. Maximum Average Subarray 1
