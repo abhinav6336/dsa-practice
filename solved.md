@@ -27,6 +27,7 @@ Stack
 -----------
 20. Valid Parenthesis
 155. Min Stack
+232. Implement Queue using stacks 
 
 String
 -----------
