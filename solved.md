@@ -28,3 +28,12 @@ Stack
 20. Valid Parenthesis
 155. Min Stack
 
+String
+-----------
+
+3.    Longest Substring without repeating characters
+5.    Longest Palindromic substring
+6.    Zig-Zag Conversion 
+14.   Longest common prefix
+3120. Count the number of special characters 1
+
