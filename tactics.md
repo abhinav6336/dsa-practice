@@ -14,3 +14,9 @@ Stack :
 ----------------
 
 1. USE while( !stack.isEmpty ) NOT while( stack,peek() ! = null )
+
+
+Sliding Window
+-----------------
+
+1. new_sum = old_sum + num[i] + num[i-k] 
