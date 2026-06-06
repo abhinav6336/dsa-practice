@@ -34,3 +34,9 @@ HashMap
 2. map.put(key,value)
 3. map.values
 4. Map<String,List<String>>
+5. map.keySet()
+
+Boyer-Moore Voting : Leetcode 169 space O(1) time O(n)
+--------------------------------------------------------
+
+1. if a target appears more than length_of_array/2 then it survives all cancellations

@@ -44,3 +44,8 @@ Sliding Window
 643. Maximum Average Subarray 1
 3. Longest substring without repeating characters
 209. Minimum Size subarray sum **amazing !! **
+
+Boyer Moore's Voting
+-----------------------
+
+169. Majority Element
