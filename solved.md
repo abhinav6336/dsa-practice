@@ -32,7 +32,6 @@ Stack
 String
 -----------
 
-3.    Longest Substring without repeating characters
 5.    Longest Palindromic substring
 6.    Zig-Zag Conversion 
 14.   Longest common prefix
@@ -42,3 +41,5 @@ Sliding Window
 -----------------
 121. Best time to buy and sell stock
 643. Maximum Average Subarray 1
+3. Longest substring without repeating characters
+209. Minimum Size subarray sum **amazing !! **

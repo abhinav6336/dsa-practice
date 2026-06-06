@@ -20,3 +20,4 @@ Sliding Window
 -----------------
 
 1. new_sum = old_sum + num[i] + num[i-k] 
+2. make a window then shrink from left or right and remember old constants 
