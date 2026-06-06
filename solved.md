@@ -10,6 +10,7 @@ Hashing
 242. Valid Anagram
 383. Ransom Note
 1. Two Sum
+49. Group Anagrams
 
 Arrays
 ------

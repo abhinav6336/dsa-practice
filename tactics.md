@@ -21,3 +21,16 @@ Sliding Window
 
 1. new_sum = old_sum + num[i] + num[i-k] 
 2. make a window then shrink from left or right and remember old constants 
+
+Converting String Into Char Array
+----------------------------------
+
+1. char [] ch = str.toCharArray()
+
+HashMap
+-----------
+
+1. containsKey()
+2. map.put(key,value)
+3. map.values
+4. Map<String,List<String>>
