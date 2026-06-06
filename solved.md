@@ -49,3 +49,9 @@ Boyer Moore's Voting
 -----------------------
 
 169. Majority Element
+
+Comparator,Hashing,Arrays
+---------------------------
+
+347. Top K frequent elements
+

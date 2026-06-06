@@ -35,8 +35,22 @@ HashMap
 3. map.values
 4. Map<String,List<String>>
 5. map.keySet()
+6. for(Map.Entry<Integer,Integer> e : map.entrySet())
+       e.getKey()
+       e.getValue()
+
 
 Boyer-Moore Voting : Leetcode 169 space O(1) time O(n)
 --------------------------------------------------------
 
 1. if a target appears more than length_of_array/2 then it survives all cancellations
+
+Comparator
+--------------
+
+1. Declaration : Comparator<Integer> obj = new Comparator<>(){
+                   public int compare(Integer x , Integer y)
+                      return ans
+                      if ( ans < 0 ) : x will come before y that means sorting will not happend
+                         ( ans > 0 ) : y will come before x that means sorting will happen 
+                           ans = 0  : no sorting
