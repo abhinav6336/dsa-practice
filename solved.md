@@ -55,3 +55,17 @@ Comparator,Hashing,Arrays
 
 347. Top K frequent elements
 
+PriorityQueue
+-------------------
+
+347. Top K Frequent Elements
+692. Top K Frequent Words
+215. Kth Largest Element in an Array
+
+BinarySearch
+--------------------
+
+704. Binary Search
+35.  Search Insert Position
+278. First Bad Version
+374. Guess Number Higher or Lower (in progress / next)
