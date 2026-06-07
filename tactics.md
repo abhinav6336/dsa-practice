@@ -54,3 +54,8 @@ Comparator
                       if ( ans < 0 ) : x will come before y that means sorting will not happend
                          ( ans > 0 ) : y will come before x that means sorting will happen 
                            ans = 0  : no sorting
+
+
+Binary Search
+
+1. left + (right - left ) /2 
