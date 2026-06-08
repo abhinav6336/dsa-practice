@@ -74,3 +74,11 @@ Binary Search
 -------------------
 
 1. left + (right - left ) /2 
+
+LinkedList
+--------------------
+
+1. Slow and Fast pointers 
+      slow = head.next
+      fast = head.next.next
+
