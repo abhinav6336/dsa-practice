@@ -77,3 +77,5 @@ LinkedList
 141. Linked List Cycle
 876. Middle of the linked list
 83. Remove duplicates from the linked list
+19. Remove duplicate from sorted list       ******8
+142. LinkedList Cycly 2                     *******
