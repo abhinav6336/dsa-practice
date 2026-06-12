@@ -87,3 +87,15 @@ Recursion
 231. Power of Two
 344. Reverse String
 203. Remove Linkedlist Elements
+
+Bracktracking 
+--------------
+
+78. Subsets
+
+Some Easy Questions When u are tired mentally 
+-----------------------------------------------
+
+392. Is Subsequence
+228. Summary Ranges
+202. Happy Number
