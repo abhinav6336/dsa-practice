@@ -15,6 +15,7 @@ Hashing
 Arrays
 ------
 66. Plus One
+1752. Check if the array is sorted and rotated or not 
 
 Two Pointers
 ------------
@@ -80,6 +81,7 @@ LinkedList
 19. Remove duplicate from sorted list       ******8
 142. LinkedList Cycly 2                     *******
 237. Delete Node In A LinkedList 
+2130. Maximum twin sum of the likedlist
 
 Recursion
 ------------
@@ -99,3 +101,5 @@ Some Easy Questions When u are tired mentally
 392. Is Subsequence
 228. Summary Ranges
 202. Happy Number
+3838. Weighted Word Mapping
+2574. left and right sum difference
